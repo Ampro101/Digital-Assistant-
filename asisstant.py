@@ -10,7 +10,7 @@ from time import ctime
 r = sr.Recognizer()
 
 
-def words_spoken(terms):
+def words_spoken(terms, voice_data):
     for term in terms:
         if term in voice_data:
             return True
