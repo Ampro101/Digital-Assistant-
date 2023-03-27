@@ -1,0 +1,23 @@
+Eira AI Virtual Assistant
+
+Eira AI Virtual Assistant is a Python-based voice recognition assistant that can perform various tasks such as searching the web, finding locations, telling the time, and checking the weather.
+
+Installation
+
+Clone this repository: git clone https://github.com/username/eira-ai.git
+Install the required dependencies by running pip install -r requirements.txt
+Usage
+
+To use Eira AI Virtual Assistant, simply run the main.py file and speak the command you want Eira to perform. The list of available commands are:
+
+Greetings: say "hey, Eira", "Hi, Eira", or "Hello, Eira"
+Ask Eira's name: say "what is your name?", "Whats your Name", or "tell me your name"
+Ask how Eira is doing: say "How are you doing", "What's up", or "How are you"
+Tell the time: say "What time is it", "what's the time", or "Tell me the time"
+Search the web: say "search for", "search", or "look up", followed by your search query
+Find location: say "find location", followed by the location you want to search for
+Check the weather: say "weather", followed by the location you want to check the weather for
+Stop Eira: say "stop" or "bye"
+Code Comments
+
+The code has been commented throughout to make it easier to understand and follow. This includes comments explaining what each function does, what each variable represents, and what each block of code is trying to achieve.
